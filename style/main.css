@@ -1,0 +1,88 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+		/*wrap*/
+.wrap {
+	/*outline: 2px solid black;*/
+	margin: 10px;
+	padding: 20px;
+	box-shadow: 0 0 3px 3px rgba(0,0,0,0.2);
+	border-radius: 10px;
+}
+		/*header*/
+header {
+	/*outline: 2px solid black;*/
+	margin-bottom: 10px;
+	padding: 5px;
+	text-align: center;
+	box-shadow: 0 0 3px 3px rgba(0,0,0,0.2);
+	border-radius: 10px;
+}
+		/*asidebar*/
+aside {
+	/*outline: 2px solid black;*/
+	display: inline-block;
+	width: 380px;
+	margin-bottom: 10px;
+	padding: 5px;
+	text-align: center;
+	box-shadow: 0 0 3px 3px rgba(0,0,0,0.2);
+	border-radius: 10px;
+}
+		/*contant*/
+main {
+	/*outline: 2px solid black;*/
+	display: inline-block;
+	width: 910px;
+	margin-bottom: 11px;
+	margin-left: 10px;
+	padding: 5px;
+	text-align: center;
+	box-shadow: 0 0 3px 3px rgba(0,0,0,0.2);
+	border-radius: 10px;
+}
+        /*footer*/
+.footer {
+	/*outline: 2px solid black;*/
+	box-shadow: 0 0 3px 3px rgba(0,0,0,0.2);
+	border-radius: 10px;
+}
+.footer-title {
+	padding-top: 20px;
+	text-align: center;
+}
+
+.footer-lists {
+	padding: 10px;
+	/*outline: 1px solid red;*/
+}
+
+.footer-list {
+	/*outline: 2px solid black;*/
+	display: inline-block;
+	width: 420px;
+	text-align: center;
+
+}
+.footer-list ul {
+	list-style: none;
+}
+/*FOOTER-SIGNATURE*/
+.footer-signatures {
+	/*outline: 2px solid black;*/
+	margin: 20px 0 20px 0;
+}
+.footer-signature {
+	display: inline-block;
+	width: 420px;
+	text-align: center;
+}
+
+.line {
+	height: 0.7px;
+	margin-bottom: 30px;
+	box-shadow: 0 0 3px 3px rgba(0,0,0,0.2);
+}
